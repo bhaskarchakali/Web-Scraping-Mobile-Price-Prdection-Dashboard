@@ -1,0 +1,721 @@
+,BRAND,PRODUCT_NAME,COLOR,MEMORY,STAR_RATING,RATINGS,REVIEWS,RAM,BATTERY_C,SCREEN_SIZE,WARRANTY,OFFER_PRICE,DISCOUNT,MRP
+0,Redmi," 8 (Onyx Black, 64 GB)",Onyx Black,64,4.4,"4,61,522","38,510",4,5000,6.22,1,8999,18% off,10999
+1,Realme," 5i (Forest Green, 128 GB)",Forest Green,128,4.4,"1,37,585","10,799",4,5000,6.52,1,10999,8% off,11999
+2,Realme," C3 (Frozen Blue, 32 GB)",Frozen Blue,32,4.4,"29,310","2,983",3,5000,6.52,1,7499,6% off,7999
+3,Realme," C3 (Blazing Red, 32 GB)",Blazing Red,32,4.4,"29,310","2,983",3,5000,6.52,1,7499,6% off,7999
+4,Realme," 5i (Forest Green, 64 GB)",Forest Green,64,4.4,"1,37,585","10,799",4,5000,6.52,1,9999,9% off,10999
+5,Realme," 5i (Aqua Blue, 128 GB)",Aqua Blue,128,4.4,"1,37,585","10,799",4,5000,6.52,1,10999,8% off,11999
+6,Realme," 5i (Aqua Blue, 64 GB)",Aqua Blue,64,4.4,"1,37,585","10,799",4,5000,6.52,1,9999,9% off,10999
+7,Redmi," 8 (Ruby Red, 64 GB)",Ruby Red,64,4.4,"4,61,522","38,510",4,5000,6.22,1,8999,18% off,10999
+8,Redmi," 8 (Emerald Green, 64 GB)",Emerald Green,64,4.4,"4,61,522","38,510",4,5000,6.22,1,8999,18% off,10999
+9,Realme," C2 (Diamond Black, 32 GB)",Diamond Black,32,4.3,"1,11,384","8,955",3,4000,6.1,1,7499,16% off,8999
+10,Realme," C2 (Diamond Black, 32 GB)",Diamond Black,32,4.4,"7,31,211","63,035",2,4000,6.1,1,6499,18% off,7999
+11,Realme," C2 (Diamond Blue, 32 GB)",Diamond Blue,32,4.4,"7,31,211","63,035",2,4000,6.1,1,6499,18% off,7999
+12,Redmi," 8 (Sapphire Blue, 64 GB)",Sapphire Blue,64,4.4,"4,61,522","38,510",4,5000,6.22,1,8999,18% off,10999
+13,Redmi," Note 7 Pro (Space Black, 64 GB)",Space Black,64,4.5,"7,83,395","69,216",4,4000,6.3,1,10999,31% off,15999
+14,Realme," C2 (Diamond Sapphire, 32 GB)",Diamond Sapphire,32,4.3,"1,11,384","8,955",3,4000,6.1,1,7499,16% off,8999
+15,Realme," C2 (Diamond Ruby, 32 GB)",Diamond Ruby,32,4.3,"1,11,384","8,955",3,4000,6.1,1,7499,16% off,8999
+16,Realme," C3 (Frozen Blue, 64 GB)",Frozen Blue,64,4.4,"33,751","3,291",4,5000,6.52,1,8499,5% off,8999
+17,Redmi," 8A (Midnight Black, 32 GB)",Midnight Black,32,4.4,"1,19,619","9,163",2,5000,6.22,1,6999,12% off,7999
+18,Realme," 5s (Crystal Blue, 64 GB)",Crystal Blue,64,4.4,"2,23,066","20,567",4,5000,6.5,1,10999,8% off,11999
+19,Redmi," 8A (Ocean Blue, 32 GB)",Ocean Blue,32,4.4,"1,09,434","8,983",3,5000,6.22,1,7499,16% off,8999
+20,Realme," 5s (Crystal Purple, 64 GB)",Crystal Purple,64,4.4,"2,23,066","20,567",4,5000,6.5,1,11999,0 % off,11999
+21,Realme," 5s (Crystal Blue, 128 GB)",Crystal Blue,128,4.4,"2,23,066","20,567",4,5000,6.5,1,11999,7% off,12999
+22,Redmi," 8A (Sunset Red, 32 GB)",Sunset Red,32,4.4,"1,09,434","8,983",3,5000,6.22,1,7499,16% off,8999
+23,Infinix," Hot 8 (Quetzal Cyan, 64 GB)",Quetzal Cyan,64,4.5,"2,14,485","32,175",4,5000,6.52,1,7999,11% off,8999
+24,Redmi," Go (Black, 8 GB)",Black,8,4.3,"1,54,798","12,754",1,3000,,1,4499,25% off,5999
+25,Infinix," Note 5 (Ice Blue, 64 GB)",Ice Blue,64,4.2,"6,598",,4,4500,5.99,1,7699,40% off,12999
+26,Vivo," Z1Pro (Sonic Blue, 64 GB)",Sonic Blue,64,4.5,"3,13,198","31,982",4,5000,6.53,1,13990,12% off,15990
+27,Vivo," Z1Pro (Sonic Blue, 64 GB)",Sonic Blue,64,4.5,"1,26,121","12,617",6,5000,6.53,1,14990,16% off,17990
+28,Realme," 5 (Crystal Purple, 32 GB)",Crystal Purple,32,4.5,"2,28,918","19,618",3,0,6.5,1,9999,9% off,10999
+29,Realme," 5 (Crystal Purple, 128 GB)",Crystal Purple,128,4.4,"3,07,642","28,953",4,0,6.5,1,11999,7% off,12999
+30,Realme," 5 (Crystal Blue, 64 GB)",Crystal Blue,64,4.4,"3,07,642","28,953",4,0,6.5,1,10999,8% off,11999
+31,Mi," A3 (Kind of Grey, 64 GB)",Kind of Grey,64,4.3,"24,784","2,116",4,4030,6.08,1,11669,22% off,14999
+32,Vivo," U10 (Electric Blue, 32 GB)",Electric Blue,32,4.4,"12,671","1,009",3,5000,6.35,1,9990,9% off,10990
+33,Redmi," 7A (Matte Gold, 32 GB)",Matte Gold,32,4.3,"3,50,818","26,616",2,4000,5.45,2,6699,4% off,6999
+34,Redmi," Note 7 Pro (Astro Moonlight White, 64 GB)",Astro Moonlight White,64,4.5,"2,54,287","21,628",6,4000,6.3,1,12999,23% off,16999
+35,Realme," XT (Pearl Blue, 64 GB)",Pearl Blue,64,4.5,"69,164","8,413",6,4000,6.4,,17999,0 % off,17999
+36,POCO," X2 (Phoenix Red, 128 GB)",Phoenix Red,128,4.6,"35,421","4,421",6,4500,6.67,1,17999,5% off,18999
+37,Realme," 5 (Crystal Blue, 128 GB)",Crystal Blue,128,4.4,"3,07,642","28,953",4,0,6.5,1,11999,7% off,12999
+38,Realme," 5 (Crystal Blue, 32 GB)",Crystal Blue,32,4.5,"2,28,918","19,618",3,0,6.5,1,9999,9% off,10999
+39,Vivo," U10 (Electric Blue, 64 GB)",Electric Blue,64,4.4,"2,600",,4,5000,6.35,1,11990,14% off,13990
+40,Redmi," Note 7 Pro (Neptune Blue, 64 GB)",Neptune Blue,64,4.5,"7,83,395","69,216",4,4000,6.3,1,10999,31% off,15999
+41,OPPO," A7 (Glaring Gold, 64 GB)",Glaring Gold,64,4.4,"13,387","1,005",4,4230,6.2,1,10990,42% off,18990
+42,Honor," 20i (Phantom Blue, 128 GB)",Phantom Blue,128,4.3,"23,984","2,403",4,3400,6.21,1,10999,35% off,16999
+43,Realme," 5 Pro (Crystal Green, 128 GB)",Crystal Green,128,4.5,"58,642","6,001",8,4035,6.3,1,16999,5% off,17999
+44,Realme," 5 Pro (Sparkling Blue, 64 GB)",Sparkling Blue,64,4.5,"1,26,063","12,560",4,4035,6.3,1,13999,6% off,14999
+45,Redmi," Note 8 Pro (Halo White, 128 GB)",Halo White,128,4.4,"2,336",,8,4500,6.53,1,18737,6% off,19999
+46,Redmi," Note 8 Pro (Electric Blue, 128 GB)",Electric Blue,128,4.4,"2,336",,8,4500,6.53,1,18990,5% off,19999
+47,Redmi," Note 8 Pro (Electric Blue, 64 GB)",Electric Blue,64,4.5,,,6,4500,6.53,,16990,0 % off,16990
+48,Micromax, X741,,,4.1,"14,519","1,497",,1750,2.4,1,1049,58% off,2499
+49,POCO," F1 (Steel Blue, 256 GB)",Steel Blue,256,4.5,"21,517","2,596",8,4000,6.18,1,22999,25% off,30999
+50,Yu," Ace (Rose Gold, 16 GB)",Rose Gold,16,4.1,"60,932","7,916",2,4000,5.45,1,4299,46% off,7999
+51,Mi," A3 (More Than White, 64 GB)",More Than White,64,4.3,"24,784","2,116",4,4030,6.08,1,11995,20% off,14999
+52,Realme," 5 Pro (Crystal Green, 64 GB)",Crystal Green,64,4.5,"72,701","7,514",6,4035,6.3,1,14999,6% off,15999
+53,Realme," 5 Pro (Sparkling Blue, 128 GB)",Sparkling Blue,128,4.5,"58,642","6,001",8,4035,6.3,1,16999,5% off,17999
+54,Realme," 5 Pro (Sparkling Blue, 64 GB)",Sparkling Blue,64,4.5,"72,701","7,514",6,4035,6.3,1,14999,6% off,15999
+55,Realme," 5 Pro (Crystal Green, 64 GB)",Crystal Green,64,4.5,"1,26,063","12,560",4,4035,6.3,1,13999,6% off,14999
+56,Honor," 9X (Midnight Black, 128 GB)",Midnight Black,128,4.4,,,6,4000,6.59,1,16999,15% off,19999
+57,Nokia, 105 ss,,,4.3,"61,000","6,015",,800,1.8,1,1075,2% off,1100
+58,Nokia, 105 SS,,,4.3,"61,000","6,015",,800,1.77,1,1125,0 % off,1125
+59,Nokia, 105 SS,,,4.3,"61,000","6,015",,800,1.77,1,1095,12% off,1249
+60,Nokia, 105 SS,,,4.3,"61,000","6,015",,800,1.77,1,1097,12% off,1249
+61,OPPO," F11 Pro (Thunder Black, 64 GB)",Thunder Black,64,4.4,"1,11,046","10,763",6,4000,6.5,1,16990,41% off,28990
+62,Vivo," U10 (Electric Blue, 64 GB)",Electric Blue,64,4.4,"12,671","1,009",3,5000,6.35,1,10490,12% off,11990
+63,Realme," XT (Pearl Blue, 64 GB)",Pearl Blue,64,4.5,"96,570","11,209",4,4000,6.4,,16999,0 % off,16999
+64,Motorola," One Macro (Space Blue, 64 GB)",Space Blue,64,4.3,"15,594","1,562",4,4000,6.2,1,9499,20% off,11999
+65,Micromax, X412,,,4,"5,129",,,800,1.77,,690,53% off,1499
+66,Lava, A1,,,4.1,"9,481",,,800,1.77,,840,23% off,1099
+67,Redmi," Note 7 Pro (Neptune Blue, 128 GB)",Neptune Blue,128,4.5,"2,54,287","21,628",6,4000,6.3,1,13999,22% off,17999
+68,Micromax, X807,,,4.1,"1,934",,,1450,2.8,,1093,56% off,2499
+69,Realme," 5s (Crystal Red, 128 GB)",Crystal Red,128,4.4,"2,23,066","20,567",4,5000,6.5,1,11999,7% off,12999
+70,Infinix," S5 Lite (Midnight Black, 64 GB)",Midnight Black,64,4.3,"33,216","3,686",4,4000,6.6,1,8499,15% off,9999
+71,Redmi," Note 7 Pro (Neptune Blue, 64 GB)",Neptune Blue,64,4.5,"2,54,287","21,628",6,4000,6.3,1,12999,23% off,16999
+72,Samsung," Galaxy M30s (Black, 64 GB)",Black,64,4.4,"2,332",,4,6000,6.4,1,14073,9% off,15500
+73,I," Kall K3 (Red, 16 GB)",Red,16,3.4,"1,527",,2,3000,6.26,1,4499,35% off,6999
+74,Redmi," 8A (Midnight Black, 32 GB)",Midnight Black,32,4.4,"1,09,434","8,983",3,5000,6.22,1,7499,16% off,8999
+75,Honor," 20i (Midnight Black, 128 GB)",Midnight Black,128,4.3,"23,984","2,403",4,3400,6.21,1,10999,35% off,16999
+76,POCO," X2 (Matrix Purple, 128 GB)",Matrix Purple,128,4.6,"35,421","4,421",6,4500,6.67,1,17999,5% off,18999
+77,OPPO," A31 (Fantasy White, 64 GB)",Fantasy White,64,4.4,,,4,4230,6.5,1,11390,12% off,12990
+78,Panasonic," Eluga Ray 610 (Black, 32 GB)",Black,32,4.2,"2,276",,3,4010,6.22,,6799,0 % off,6799
+79,Redmi," Note 7S (Onyx Black, 64 GB)",Onyx Black,64,4.4,"3,89,062","32,753",4,4000,6.3,1,11999,14% off,13999
+80,Apple," iPhone 11 (White, 128 GB)",White,128,4.7,"10,800",,,0,6.1,1,73600,0 % off,73600
+81,Tecno," Spark Go Plus (Vacation Blue, 32 GB)",Vacation Blue,32,4.3,,,2,4000,6.52,,7299,2% off,7499
+82,Gionee," F9 (Blue, 32 GB)",Blue,32,4.1,"6,802",,3,3520,5.71,1,5499,30% off,7900
+83,Gionee," F9 (Black, 32 GB)",Black,32,4.1,"6,802",,3,3520,5.71,1,5499,30% off,7900
+84,Kechaoda, K66 Plus,,,4.1,"13,884","1,288",,400,1.8,1,949,0 % off,949
+85,Vivo," U10 (Thunder Black, 32 GB)",Thunder Black,32,4.4,"12,671","1,009",3,5000,6.35,1,9990,9% off,10990
+86,Vivo," Y91 (Starry Black, 32 GB)",Starry Black,32,4.4,"13,988","1,037",3,4030,6.22,1,8999,18% off,10990
+87,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,880,0 % off,880
+88,Apple," iPhone 7 Plus (Black, 32 GB)",Black,32,4.5,"24,149","2,580",,0,5.5,1,36999,2% off,37900
+89,Nokia, 105 SS,,,4.3,"61,000","6,015",,800,1.77,,1089,12% off,1249
+90,Lava, A3,,,4.2,"7,093",,,1750,1.77,,1089,0 % off,1089
+91,Micromax, X380,,,4,"2,102",,,2500,1.77,,771,48% off,1499
+92,Vivo," V11 Pro (Starry Night Black, 64 GB)",Starry Night Black,64,4.5,"28,376","3,062",6,3400,6.41,1,14777,49% off,28990
+93,POCO," X2 (Atlantis Blue, 128 GB)",Atlantis Blue,128,4.6,"35,421","4,421",6,4500,6.67,1,17999,5% off,18999
+94,Apple," iPhone 7 (Black, 32 GB)",Black,32,4.5,"86,163","8,695",,0,4.7,1,29499,1% off,29900
+95,Realme," X2 (Pearl Green, 128 GB)",Pearl Green,128,4.5,"26,377","3,115",8,4000,6.4,1,20999,0 % off,20999
+96,Realme," 3i (Diamond Black, 32 GB)",Diamond Black,32,4.4,"2,73,695","25,063",3,4230,6.22,1,8499,5% off,8999
+97,Realme," 3i (Diamond Black, 64 GB)",Diamond Black,64,4.4,"70,113","6,104",4,4230,6.22,1,10499,4% off,10999
+98,Realme," 3i (Diamond Blue, 32 GB)",Diamond Blue,32,4.4,"2,73,695","25,063",3,4230,6.22,1,8499,5% off,8999
+99,Redmi," Note 7 Pro (Nebula Red, 64 GB)",Nebula Red,64,4.5,"2,54,287","21,628",6,4000,6.3,1,12999,23% off,16999
+100,Apple," iPhone 11 (White, 64 GB)",White,64,4.7,"10,800",,,0,6.1,1,68300,0 % off,68300
+101,Mi," A3 (Not just Blue, 64 GB)",Not just Blue,64,4.3,"24,784","2,116",4,4030,,1,12999,13% off,14999
+102,Samsung, Guru Music 2,,,4.3,"1,33,242","13,736",,800,,1,1760,9% off,1950
+103,Realme," 3 (Radiant Blue, 64 GB)",Radiant Blue,64,4.4,"1,64,557","16,222",4,4230,6.22,1,10499,19% off,12999
+104,Realme," 3 (Dynamic Black, 64 GB)",Dynamic Black,64,4.4,"4,29,660","42,807",3,4230,6.22,1,9499,20% off,11999
+105,Realme," 3 (Radiant Blue, 32 GB)",Radiant Blue,32,4.4,"4,29,660","42,807",3,4230,6.22,1,8499,22% off,10999
+106,Realme," 3 (Dynamic Black, 32 GB)",Dynamic Black,32,4.4,"4,29,660","42,807",3,4230,6.22,1,8499,22% off,10999
+107,Kechaoda, A26,,,4.1,"2,702",,,800,0.66,1,925,0 % off,925
+108,Kechaoda, K66 Plus,,,4.1,"13,884","1,288",,400,1.8,1,949,0 % off,949
+109,Lava, GEM,,,4.2,"8,632","1,003",,1750,2.8,,1499,21% off,1899
+110,Moto," E6s (Rich Cranberry, 64 GB)",Rich Cranberry,64,4.1,"61,655","5,399",4,3000,6.1,1,7499,25% off,9999
+111,Google," Pixel 3a (Just Black, 64 GB)",Just Black,64,4.5,"4,565",,4,3000,5.6,1,30999,22% off,39999
+112,Samsung," Galaxy A10s (Black, 32 GB)",Black,32,4.3,,,3,4000,6.2,1,10099,8% off,11000
+113,XOLO," Era 4x (Black, 16 GB)",Black,16,4.1,"1,342",,2,3000,5.45,1,4299,40% off,7199
+114,Realme," XT (Pearl White, 64 GB)",Pearl White,64,4.5,"69,164","8,413",6,4000,6.4,,17999,0 % off,17999
+115,Realme," XT (Pearl White, 64 GB)",Pearl White,64,4.5,"96,570","11,209",4,4000,6.4,,16999,0 % off,16999
+116,Realme," XT (Pearl White, 128 GB)",Pearl White,128,4.5,"70,095","8,476",8,4000,6.4,,19999,0 % off,19999
+117,Redmi," Go (Blue, 16 GB)",Blue,16,4.3,"1,54,798","12,754",1,3000,,1,4999,16% off,5999
+118,Karbonn, Jumbo K9,,,4,"5,968",,,1800,2.6,1,1079,25% off,1455
+119,Nokia, TA-1010/105,,,4.3,"26,081","2,408",,800,1.8,1,1099,0 % off,1099
+120,Kechaoda, K66 Plus,,,4.1,"13,884","1,288",,850,1.44,,949,0 % off,949
+121,Redmi," Note 8 Pro (Gamma Green, 64 GB)",Gamma Green,64,4.5,"16,008","1,276",6,4500,6.53,1,15499,0 % off,15499
+122,Redmi," Note 8 Pro (Halo White, 64 GB)",Halo White,64,4.5,"16,008","1,276",6,4500,6.53,1,15190,0 % off,15190
+123,Honor," 9N (Midnight Black, 32 GB)",Midnight Black,32,4.4,"2,26,414","21,960",3,3000,5.84,,7999,42% off,13999
+124,Honor," 9N (Midnight Black, 128 GB)",Midnight Black,128,4.3,"2,22,007","21,217",4,3000,5.84,,9499,52% off,19999
+125,Apple," iPhone 11 (Purple, 64 GB)",Purple,64,4.7,"10,800",,,0,6.1,1,68300,0 % off,68300
+126,Redmi," Note 6 Pro (Red, 64 GB)",Red,64,4.5,"1,16,587","10,378",6,4000,6.26,1,11999,33% off,17999
+127,Micromax, X741,,,4.1,"14,519","1,497",,1750,2.4,1,1079,56% off,2499
+128,Micromax, X741,,,4.1,"14,519","1,497",,1750,2.4,1,1088,55% off,2459
+129,Micromax, X1i Power,,,3.9,"11,349","1,324",,1750,2.4,,865,42% off,1499
+130,Vivo," Z1x (Phantom Purple, 128 GB)",Phantom Purple,128,4.4,"1,17,712","12,869",6,4500,6.38,1,17990,14% off,20990
+131,Vivo," Z1x (Fusion Blue, 128 GB)",Fusion Blue,128,4.5,"10,634","1,358",4,4500,6.38,1,15799,16% off,18990
+132,Vivo," Z1x (Fusion Blue, 64 GB)",Fusion Blue,64,4.4,"1,17,712","12,869",6,4500,6.38,1,16990,15% off,19990
+133,Vivo," Z1x (Phantom Purple, 64 GB)",Phantom Purple,64,4.4,"1,17,712","12,869",6,4500,6.38,1,16990,15% off,19990
+134,Vivo," Z1x (Phantom Purple, 128 GB)",Phantom Purple,128,4.5,"4,028",,8,4500,6.38,1,18990,24% off,24990
+135,Redmi," K20 Pro (Glacier Blue, 128 GB)",Glacier Blue,128,4.5,"53,383","6,731",6,4000,6.39,1,26999,6% off,28999
+136,Redmi," Note 8 (Moonlight White, 64 GB)",Moonlight White,64,4.4,"10,252",,4,4000,6.3,,11470,11% off,12999
+137,Redmi," Note 8 (Space Black, 128 GB)",Space Black,128,4.4,"7,620",,6,4000,6.3,,12999,18% off,15999
+138,Google," Pixel 3a (Clearly White, 64 GB)",Clearly White,64,4.5,"4,565",,4,3000,5.6,1,30999,22% off,39999
+139,Kechaoda, K33,,,4.1,"1,376",,,1000,1.4,1,880,37% off,1399
+140,Kechaoda, K33,,,4.1,"1,376",,,1000,1.4,1,880,37% off,1399
+141,Samsung," Galaxy A71 (Prism Crush Blue, 128 GB)",Prism Crush Blue,128,4.6,,,8,4500,6.7,1,31500,9% off,34999
+142,Lenovo," A6 Note (Blue, 32 GB)",Blue,32,4.1,"15,050","1,511",3,4000,6.102,1,6999,30% off,9999
+143,Nokia, 105,,,4.2,"19,051","1,798",,800,1.8,1,1248,16% off,1499
+144,Karbonn, K140 Pop,,,3.9,"1,535",,,1000,1.8,1,699,29% off,699
+145,Honor," 9N (Sapphire Blue, 32 GB)",Sapphire Blue,32,4.4,"2,26,414","21,960",3,3000,5.84,,7999,42% off,13999
+146,Lava, A7,,,4.2,"4,008",,,1750,2.4,1,1439,0 % off,1439
+147,Micromax, X512,,,4,"2,462",,,1750,1.77,1,760,57% off,1799
+148,Realme," 3 (Dynamic Black, 64 GB)",Dynamic Black,64,4.4,"1,64,557","16,222",4,4230,6.22,1,10499,19% off,12999
+149,Realme," 3 (Black, 32 GB)",Black,32,4.4,"4,29,660","42,807",3,4230,6.22,1,8499,22% off,10999
+150,Apple," iPhone 7 Plus (Gold, 32 GB)",Gold,32,4.5,"24,149","2,580",,0,5.5,1,36999,2% off,37900
+151,Kechaoda, A26,,,4.1,"2,702",,,800,0.66,1,925,0 % off,925
+152,Kechaoda, A26,,,4.1,"2,702",,,800,0.66,1,925,33% off,1399
+153,Kechaoda, A27,,,4.1,"1,142",,,800,0.66,1,925,0 % off,925
+154,Yu," Ace (Elektric Blue, 16 GB)",Elektric Blue,16,4.1,"60,932","7,916",2,4000,5.45,1,4299,46% off,7999
+155,Realme," X (Garlic, 128 GB)",Garlic,128,4.5,"38,046","4,790",8,3765,6.53,1,20999,0 % off,20999
+156,Realme," X (Space Blue, 128 GB)",Space Blue,128,4.5,"93,093","12,347",4,3765,6.53,1,17999,0 % off,17999
+157,Apple," iPhone 8 (Silver, 64 GB)",Silver,64,4.5,"9,968",,,0,4.7,1,38999,2% off,39900
+158,Nokia, 105,,,4.2,"19,051","1,798",,800,1.8,1,1299,13% off,1499
+159,Kechaoda, K33,,,4.1,"1,376",,,1000,1.4,1,880,37% off,1399
+160,Kechaoda, K33,,,4.1,"1,376",,,1000,1.4,1,880,37% off,1399
+161,Kechaoda, K33,,,4.1,"1,376",,,1000,1.4,1,880,41% off,1499
+162,Panasonic," Eluga Ray 810 (Starry Black, 64 GB)",Starry Black,64,4.1,"1,759",,4,4000,6.2,,7799,54% off,16990
+163,OPPO," F11 Pro (Aurora Green, 128 GB)",Aurora Green,128,4.4,"1,11,046","10,763",6,4000,6.5,1,17990,40% off,29990
+164,OPPO," A31 (Mystery Black, 64 GB)",Mystery Black,64,4.4,,,4,4230,6.5,1,11390,12% off,12990
+165,Nokia, 105 SS,,,4.3,"61,000","6,015",,800,1.77,1,1099,12% off,1249
+166,Realme," 2 Pro (Blue Ocean, 64 GB)",Blue Ocean,64,4.5,"90,921","9,984",6,3500,6.3,1,11490,28% off,15990
+167,Realme," 2 Pro (Blue Ocean, 64 GB)",Blue Ocean,64,4.5,"3,82,583","44,418",4,3500,6.3,1,11490,17% off,13990
+168,Redmi," 8A Dual (Sea Blue, 32 GB)",Sea Blue,32,4.3,,,3,5000,6.22,,7868,1% off,7999
+169,Redmi," 8A Dual (Midnight Grey, 32 GB)",Midnight Grey,32,4.4,,,2,5000,6.22,,7488,0 % off,7488
+170,Redmi," 8A Dual (Sea Blue, 32 GB)",Sea Blue,32,4.4,,,2,5000,6.22,,7200,3% off,7499
+171,Redmi," 8A Dual (Midnight Grey, 32 GB)",Midnight Grey,32,4.3,,,3,5000,6.22,,7789,2% off,7999
+172,Lava, Gem,,,4.3,,,,1750,2.8,,1549,0 % off,1549
+173,Samsung," Galaxy M30s (Blue, 64 GB)",Blue,64,4.4,"2,332",,4,6000,6.4,1,14999,3% off,15500
+174,Lava, A7,,,4.2,"4,008",,,1750,2.4,1,1299,23% off,1699
+175,Lava, Hero,,,4,,,,600,1.8,,670,25% off,670
+176,Micromax, X749,,,4.4,,,,1750,2.4,1,1119,0 % off,1119
+177,Gfive, U873,,,3.8,,,,1000,1.8,1,639,41% off,1099
+178,Gfive, U873,,,3.8,,,,1000,1.8,1,599,45% off,1099
+179,Micromax, X421,,,4.1,,,,1800,1.77,,869,51% off,1799
+180,Lenovo," K9 Note (Gold, 64 GB)",Gold,64,4.1,"1,308",,4,3760,5.99,1,7499,37% off,11999
+181,Itel, It 2190,,,4.1,,,,1000,1.8,1,877,22% off,1125
+182,OPPO," F11 (Fluorite Purple, 128 GB)",Fluorite Purple,128,4.4,"70,561","7,305",4,4020,6.53,1,13990,36% off,21990
+183,Itel, IT 2163,,,4,,,,1000,1.8,,738,24% off,738
+184,Itel, IT 2163,,,4,,,,1000,1.8,,738,24% off,738
+185,Tecno," Camon 15 (SHOAL GOLD, 64 GB)",SHOAL GOLD,64,4.3,,,4,5000,6.55,,11499,0 % off,11499
+186,Micromax, X512,,,4,"2,462",,,1750,1.77,1,781,24% off,1035
+187,OnePlus," 7T (Glacier Blue, 128 GB)",Glacier Blue,128,4.6,"4,293",,8,3800,6.55,,35105,7% off,37990
+188,Micromax, X380,,,4,"2,102",,,2500,1.77,,775,48% off,1499
+189,Asus," ZenFone Max M1 (Black, 32 GB)",Black,32,4.1,"1,37,006","16,581",3,4000,5.45,1,5999,37% off,9599
+190,Karbonn," Aura (Silver, 8 GB)",Silver,8,3.4,,,1,2000,,1,4325,0 % off,4325
+191,Moto," E6s (Polished Graphite, 64 GB)",Polished Graphite,64,4.1,"61,655","5,399",4,3000,6.1,1,7499,25% off,9999
+192,OPPO," A9 2020 (Vanilla Mint, 128 GB)",Vanilla Mint,128,4.3,"4,333",,8,5000,6.52,1,19989,0 % off,19989
+193,Tecno," Camon 15 Pro (Ice Jadite, 128 GB)",Ice Jadite,128,3.5,,,6,4000,6.53,,15999,5% off,16999
+194,Tecno," Camon 15 Pro (Opal White, 128 GB)",Opal White,128,3.5,,,6,4000,6.53,,15999,5% off,16999
+195,Kechaoda, K10,,,4,"4,686",,,300,0.66,1,999,0 % off,999
+196,Kechaoda, K10,,,4,"4,686",,,300,0.66,1,999,0 % off,999
+197,Infinix," Note 5 (Milan Black, 64 GB)",Milan Black,64,4.2,"6,598",,4,4500,5.99,1,7699,40% off,12999
+198,Infinix," Note 5 (Berlin Gray, 64 GB)",Berlin Gray,64,4.2,"6,598",,4,4500,5.99,1,7699,40% off,12999
+199,Tecno," Spark 4 Air (Polar Blue, 32 GB)",Polar Blue,32,4.2,,,3,3000,6.1,,7290,0 % off,7290
+200,Vivo," V15 (Frozen Black, 64 GB)",Frozen Black,64,4.4,"34,304","2,904",6,4000,6.53,1,17799,0 % off,17799
+201,Lava, 34 Plus,,,4.3,,,,2500,2.4,1,1599,7% off,1729
+202,Micromax, X516,,,4,"3,024",,,1750,1.77,1,777,61% off,1999
+203,Moto," G8 Plus (Crystal Pink, 64 GB)",Crystal Pink,64,4.3,"6,364",,4,4000,6.3,1,12999,18% off,15999
+204,Apple," iPhone XS (Space Grey, 64 GB)",Space Grey,64,4.7,"8,367",,,0,5.8,1,62999,29% off,89900
+205,Kechaoda, K115,,,4.1,"3,530",,,850,1.44,,870,12% off,870
+206,Redmi," Note 8 (Cosmic Purple, 64 GB)",Cosmic Purple,64,4.4,"10,252",,4,4000,6.3,,12199,6% off,12999
+207,OnePlus," 7 (Red, 256 GB)",Red,256,4.6,"1,245",,8,3700,6.41,,32899,0 % off,32899
+208,OnePlus," 7 (Mirror Blue, 128 GB)",Mirror Blue,128,4.6,"2,888",,6,3700,6.41,,29999,9% off,32999
+209,Kechaoda, K112,,,4,"3,846",,,3600,2.4,1,1150,23% off,1499
+210,Apple," iPhone 11 (Green, 64 GB)",Green,64,4.7,"10,800",,,0,6.1,1,68300,0 % off,68300
+211,Intex, Eco 111,,,3.9,,,,1050,1.8,1,799,0 % off,799
+212,Apple," iPhone XR (Blue, 64 GB)",Blue,64,4.6,"8,780",,,0,6.1,1,52500,0 % off,52500
+213,Karbonn, K-Pebble,,,3.9,,,,800,2.4,1,1299,23% off,1690
+214,I, Kall K66 Combo Of Two Mobile,,,3.5,"5,358",,,1000,1.8,1,1199,20% off,1499
+215,Lava, 34 Plus,,,4.3,,,,2500,2.4,1,1399,26% off,1899
+216,Nokia, 105,,,4,"23,435","2,258",,850,1.4,1,1099,12% off,1249
+217,Micromax, X742,,,3.8,"4,381",,,1000,2.4,,899,35% off,1399
+218,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,880,0 % off,880
+219,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,880,41% off,1499
+220,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,880,41% off,1499
+221,Micromax," Smarty 4.0 (White, 2 GB)",White,2,4.3,,,,1600,,1,6599,0 % off,6599
+222,Micromax," Superfone Ninja2 A56 (Blue, 150 MB)",Blue,,4,,,,1400,3.5,1,6199,0 % off,6199
+223,Karbonn, K9 Staar,,,3.8,"5,823",,,1000,2.4,1,899,32% off,1340
+224,Redmi," K20 Pro (Flame Red, 128 GB)",Flame Red,128,4.5,"53,383","6,731",6,4000,6.39,1,26999,6% off,28999
+225,iQOO," 3 (5G) (Tornado Black, 256 GB)",5G) (Tornado Black,256,4.5,,,12,4440,6.44,1,46990,0 % off,46990
+226,Lenovo," Z2 Plus (Black, 64 GB)",Black,64,3.8,"4,261",,4,3500,,1,8999,20% off,11290
+227,Apple," iPhone XS (Silver, 64 GB)",Silver,64,4.7,"8,367",,,0,5.8,1,62999,29% off,89900
+228,OPPO," A3s (Purple, 32 GB)",Purple,32,4.3,"24,679","1,946",3,4230,6.2,1,8990,35% off,13990
+229,Samsung," Galaxy A50 (Blue, 64 GB)",Blue,64,4.3,"53,584","5,085",4,4000,6.4,1,15899,24% off,21000
+230,Coolpad," Cool 3 (Midnight Blue, 64 GB)",Midnight Blue,64,3.6,,,4,3000,5.7,1,6890,23% off,8999
+231,Lava, Discover 136S,,,3.4,,,,1000,3.5,1,2700,0 % off,2700
+232,Realme," X (Polar White, 128 GB)",Polar White,128,4.5,"93,093","12,347",4,3765,6.53,1,17999,0 % off,17999
+233,Lenovo," K9 Note (Black, 64 GB)",Black,64,4.1,"1,308",,4,3760,5.99,1,7499,37% off,11999
+234,Lava, A1200,,,4.2,,,,1750,1.8,1,1199,4% off,1250
+235,Asus," ZenFone Max M2 (Blue, 64 GB)",Blue,64,4.3,"24,208","2,482",4,4000,6.26,1,8999,40% off,14999
+236,Lenovo," K9 (Black, 32 GB)",Black,32,4.2,"15,740","1,706",3,3000,5.7,1,6499,35% off,9999
+237,I, Kall K2180,,,3.7,"9,579","1,136",,1000,1.8,,649,0 % off,649
+238,Micromax, X746,,,4,"4,182",,,3000,2.4,1,1099,56% off,2499
+239,Redmi," Go (Black, 16 GB)",Black,16,4.3,"1,54,798","12,754",1,3000,,1,4999,16% off,5999
+240,Samsung," Galaxy S10 Lite (Prism Black, 128 GB)",Prism Black,128,4.5,"4,920","1,423",8,4500,6.7,1,42099,4% off,43999
+241,Asus," ZenFone Max M2 (Blue, 32 GB)",Blue,32,4.3,"98,675","11,987",3,4000,6.26,1,7499,42% off,12999
+242,Redmi," 7 (Comet Blue, 32 GB)",Comet Blue,32,4.3,"12,832","1,004",2,4000,6.26,,7995,20% off,9999
+243,Samsung," Galaxy A30 (Black, 64 GB)",Black,64,4.4,"16,919","1,401",4,4000,6.4,1,14799,17% off,18000
+244,I, Kall K 30,,,3.7,,,,1000,2.4,1,799,0 % off,799
+245,Vivo," V9 Youth (Black, 32 GB)",Black,32,4.4,"26,642","2,923",4,3260,6.3,1,16990,15% off,19990
+246,Micromax," Spark Go (Silver, 8 GB)",Silver,8,4,"17,338","1,542",1,2000,,1,3299,34% off,4999
+247,Fox, Bolt FX241,,,3.7,"2,720",,,1800,2.4,1,959,0 % off,959
+248,Asus," ZenFone Max M1 (Gold, 32 GB)",Gold,32,4.1,"1,37,006","16,581",3,4000,5.45,1,5999,37% off,9599
+249,Realme," C2 (Diamond Black, 16 GB)",Diamond Black,16,4.4,"7,31,211","63,035",2,4000,6.1,1,6499,7% off,6999
+250,Itel, Muzik 400,,,4.1,,,,3000,2.4,,1270,19% off,1569
+251,Fox, Champ FX240,,,3.6,"2,226",,,1800,2.4,1,899,0 % off,899
+252,I, Kall K24,,,3.3,"3,526",,,1000,1.8,1,599,0 % off,599
+253,Kechaoda, A26,,,4.1,"2,702",,,800,0.66,1,925,0 % off,925
+254,POCO," X2 (Atlantis Blue, 64 GB)",Atlantis Blue,64,4.6,"35,421","4,421",6,4500,6.67,1,16999,5% off,17999
+255,I, Kall K72,,,3.5,"2,963",,,800,1.8,1,570,18% off,570
+256,OPPO," A3s (Red, 64 GB)",Red,64,4.3,"16,361","1,319",4,4230,6.2,1,10599,24% off,13990
+257,Vivo," V15 Pro (Topaz Blue, 128 GB)",Topaz Blue,128,4.5,"28,439","2,666",6,3700,6.39,1,21099,36% off,32990
+258,Panasonic," P77 (Grey, 16 GB)",Grey,16,3.7,"7,221","1,137",1,2000,,1,6990,0 % off,6990
+259,Kechaoda, K116 Plus,,,4,"2,617",,,400,1.77,1,885,0 % off,885
+260,I, Kall K20 New,,,3.5,"1,715",,,1000,1.8,,649,0 % off,649
+261,Samsung, Guru 1200,,,4.3,"1,20,586","11,639",,800,1.5,1,1346,4% off,1410
+262,Asus," ZenFone Max M2 (Black, 32 GB)",Black,32,4.3,"98,675","11,987",3,4000,6.26,1,7499,42% off,12999
+263,Vivo," Y17 (Mystic Purple, 128 GB)",Mystic Purple,128,4.4,"11,062",,4,5000,6.35,1,13690,27% off,18990
+264,Redmi," 7A (Matte Blue, 16 GB)",Matte Blue,16,4.3,"3,50,818","26,616",2,4000,5.45,2,6499,0 % off,6499
+265,Samsung," Galaxy S10 Lite (Prism Blue, 128 GB)",Prism Blue,128,4.5,"4,920","1,423",8,4500,6.7,1,42099,4% off,43999
+266,I, Kall K50,,,3.8,"1,461",,,0,2.8,1,799,38% off,1299
+267,Apple," iPhone 11 (Red, 64 GB)",Red,64,4.7,"10,800",,,0,6.1,1,68300,0 % off,68300
+268,Honor," 10 Lite (Sky Blue, 64 GB)",Sky Blue,64,4.4,"13,378","1,291",6,3400,6.21,1,12199,35% off,18999
+269,Mobiistar," X1 Dual (Black, 32 GB)",Black,32,3.8,,,3,3000,5.7,1,6690,0 % off,6690
+270,Karbonn, K9 Staar,,,3.8,"5,823",,,1000,2.4,1,999,0 % off,999
+271,Samsung, Guru FM Plus,,,4.2,"15,771","1,595",,800,1.5,1,1548,8% off,1699
+272,I, Kall K3310,,,3.7,"50,580","6,547",,1000,1.8,,699,0 % off,699
+273,Samsung," Galaxy S20+ (Cosmic Black, 128 GB)",Cosmic Black,128,4.8,,,8,4500,6.7,1,77900,6% off,83000
+274,Lenovo," X2-AP (Gold, 32 GB)",Gold,32,3.7,"3,560",,2,2300,,1,17499,0 % off,17499
+275,Itel, it5260,,,4.5,,,,1900,2.4,,1269,20% off,1590
+276,I, Kall K20 New Combo of Two Mobiles,,,3.4,,,,1000,1.8,1,1199,0 % off,1199
+277,Itel, Power 400,,,4.1,,,,2500,2.4,,1135,29% off,1599
+278,itel, it5617,,,3.8,,,,2500,2.4,1,1222,0 % off,1222
+279,Fox, 24 Karat Gold,,,3.7,,,,1500,2.4,1,649,0 % off,649
+280,Kechaoda, A27,,,4.1,"1,142",,,800,0.66,1,910,0 % off,910
+281,Fox, Sultan,,,3.9,,,,2500,2.4,1,1099,0 % off,1099
+282,Redmi," Note 7S (Sapphire Blue, 32 GB)",Sapphire Blue,32,4.4,"2,89,587","26,829",3,4000,6.3,1,9999,16% off,11999
+283,OPPO," K1 (Piano Black, 64 GB)",Piano Black,64,4.4,"71,770","7,485",4,3600,6.41,1,14990,21% off,18990
+284,Kechaoda, K10,,,4,"4,686",,,300,0.66,1,999,0 % off,999
+285,Kechaoda, K10,,,4,"4,686",,,300,0.66,1,999,16% off,1199
+286,iQOO," 3 (Quantum Silver, 128 GB)",Quantum Silver,128,4.5,,,8,4440,6.44,1,38990,0 % off,38990
+287,I, Kall K14 New,,,3.5,"6,681",,,800,1.8,,599,4% off,599
+288,Karbonn, KX23,,,3.9,,,,1900,2.4,1,1039,30% off,1490
+289,Karbonn, KX23,,,3.9,,,,1900,2.4,1,1041,30% off,1499
+290,Realme," X2 Pro (Neptune Blue, 128 GB)",Neptune Blue,128,4.6,"7,836","1,268",8,4000,6.5,1,31999,0 % off,31999
+291,Realme," X2 Pro (Neptune Blue, 256 GB)",Neptune Blue,256,4.6,"4,355",,12,4000,6.5,1,35999,0 % off,35999
+292,Realme," X2 Pro (Lunar White, 128 GB)",Lunar White,128,4.6,"7,836","1,268",8,4000,6.5,1,31999,0 % off,31999
+293,Realme," X2 Pro (Lunar White, 64 GB)",Lunar White,64,4.5,,,6,4000,6.5,1,29999,0 % off,29999
+294,Realme," X2 Pro (Neptune Blue, 64 GB)",Neptune Blue,64,4.5,,,6,4000,6.5,1,29999,0 % off,29999
+295,Samsung," Galaxy S10 Lite (Prism White, 128 GB)",Prism White,128,4.5,"4,920","1,423",8,4500,6.7,1,42099,4% off,43999
+296,Tecno," Spark 4 Air (Nebula Black, 32 GB)",Nebula Black,32,4.2,,,3,3000,6.1,1,7990,0 % off,7990
+297,Redmi," Note 6 Pro (Black, 64 GB)",Black,64,4.5,"1,16,587","10,378",6,4000,6.26,1,11999,33% off,17999
+298,Apple," iPhone 7 (Rose Gold, 32 GB)",Rose Gold,32,4.5,"86,163","8,695",,0,4.7,1,29499,1% off,29900
+299,Karbonn, K2 Boom Box,,,3.9,"5,922",,,1000,1.8,1,683,31% off,683
+300,Asus," ZenFone Max M2 (Black, 64 GB)",Black,64,4.3,"24,208","2,482",4,4000,6.26,1,8999,40% off,14999
+301,Lava," Z71 (Ruby Red, 32 GB)",Ruby Red,32,3.8,,,2,3200,5.71,1,6299,10% off,6999
+302,Gfive, U229,,,3.7,"1,497",,,1000,1.8,1,629,42% off,1099
+303,Gfive, U229,,,3.7,"1,497",,,1000,1.8,,499,54% off,1099
+304,Philips, Xenium E168,,,4,"1,189",,,1600,2.4,1,1499,0 % off,1499
+305,Apple," iPhone XR (Coral, 128 GB)",Coral,128,4.6,"8,780",,,0,6.1,1,57800,0 % off,57800
+306,Fox, Bolt FX241,,,3.7,"2,720",,,1800,2.4,1,699,0 % off,699
+307,Lenovo," A6 Note (Black, 32 GB)",Black,32,4.1,"15,050","1,511",3,4000,6.088,1,6999,30% off,9999
+308,I, Kall K43,,,3.7,,,,800,1.8,1,570,36% off,570
+309,Itel, Muzik 400,,,4.1,,,,3000,2.4,,1338,14% off,1569
+310,I, Kall I KALL K2180 Red,,,3.8,"4,751",,,1000,1.8,,649,0 % off,649
+311,I, Kall K88,,,3.3,"5,788",,,1000,1.8,,649,0 % off,649
+312,Gfive, Classic,,,3.6,,,,1050,1.8,1,625,21% off,625
+313,Realme," C2 (Diamond Blue, 16 GB)",Diamond Blue,16,4.4,"7,31,211","63,035",2,4000,6.1,1,6499,7% off,6999
+314,I, Kall K24 New Combo of Two Mobiles,,,3.6,,,,1000,1.8,1,1199,20% off,1499
+315,I, Kall K6303,,,3.7,"6,674",,,1800,2.4,,799,0 % off,799
+316,I, Kall K6303,,,3.7,"6,674",,,1800,2.4,,799,20% off,799
+317,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,880,41% off,1499
+318,Forme, F Fone with Secondary Camera,,,3.7,,,,1500,2.4,1,899,0 % off,899
+319,Lava, One,,,4.1,"5,976",,,1000,2.4,1,1269,20% off,1600
+320,Muphone, M330,,,3.9,,,,1700,2.8,1,1289,0 % off,1289
+321,vivo," U20 (Blaze blue, 64 GB)",Blaze blue,64,4,,,6,5000,6.53,,12990,13% off,14990
+322,Itel, It 5605n,,,4.2,,,,2500,1.77,1,980,20% off,1225
+323,GLX, W8,,,3.8,,,,950,1.8,1,639,0 % off,639
+324,I, Kall K27 New,,,3.5,,,,800,1.8,1,649,18% off,649
+325,Karbonn, K451 Power,,,3.8,"3,638",,,3000,2.4,1,1013,36% off,1585
+326,Micromax, X744,,,3.9,"1,169",,,2200,2.4,1,949,62% off,2499
+327,Karbonn, KX2,,,3.8,,,,1000,1.8,,799,20% off,799
+328,Intex, Turbo 108,,,3.9,,,,1050,2.4,1,911,31% off,1332
+329,Fox, Sultan,,,3.9,,,,2500,2.4,1,1099,0 % off,1099
+330,Fox, Sultan,,,3.9,,,,2500,2.4,1,999,9% off,1099
+331,Kara, Elight,,,3.7,,,,1350,1.8,,699,0 % off,699
+332,Kara, Elight,,,3.7,,,,1350,1.8,,679,0 % off,679
+333,BlackBear, C99 Marathon,,,3.8,,,,3000,2.4,1,1289,0 % off,1289
+334,I, Kall K5310,,,3.5,"8,011",,,1000,1.8,,649,0 % off,649
+335,I, Kall K5310,,,3.5,"8,011",,,1000,1.8,,649,0 % off,649
+336,Gfive, U707 combo of Two,,,3.8,,,,1000,1.8,,999,9% off,1099
+337,Kechaoda, K9,,,4,,,,1700,2.4,1,949,0 % off,949
+338,Kechaoda, K9,,,4,,,,1700,2.4,1,949,0 % off,949
+339,Redmi," Note 6 Pro (Rose Gold, 64 GB)",Rose Gold,64,4.5,"1,16,587","10,378",6,4000,6.26,1,11999,33% off,17999
+340,I, Kall K28 Combo of Two Mobiles,,,3.4,,,,1500,2.4,1,1199,50% off,2398
+341,Swipe," Elite VR (Black/Charcoal Black, 8 GB)",Black/Charcoal Black,8,3.2,,,1,3000,5.5,1,5999,0 % off,5999
+342,Vivo," V15 Pro (Ruby Red, 128 GB)",Ruby Red,128,4.5,"28,439","2,666",6,3700,6.39,1,19269,40% off,32391
+343,Karbonn, K9 Mini,,,3.8,,,,800,1.77,1,693,30% off,693
+344,Karbonn, K9 Mini,,,3.8,,,,800,1.77,1,699,29% off,699
+345,GLX, U505,,,3.6,,,,950,1.8,1,639,0 % off,639
+346,Coolpad," Mega 5C (Gold, 16 GB)",Gold,16,3.5,,,2,2500,5.45,1,3799,36% off,5999
+347,Nokia," 3.1 Plus (Charcoal, 32 GB)",Charcoal,32,4.2,"3,612",,3,3500,,1,8495,3% off,8795
+348,Karbonn, K31,,,4,,,,1800,2.4,,1050,29% off,1490
+349,Huawei," Y9 Prime 2019 (Sapphire Blue, 128 GB)",Sapphire Blue,128,4.3,,,4,4000,6.59,1,16899,15% off,19990
+350,Karbonn, KX25,,,4.2,,,,1800,2.4,,1099,0 % off,1099
+351,Detel, D1 MAX,,,3.7,,,,1500,2.8,1,799,55% off,1799
+352,GLX, W22,,,3.6,,,,950,1.8,1,639,0 % off,639
+353,GLX, W22,,,3.6,,,,950,1.8,1,639,0 % off,639
+354,GLX, W22,,,3.6,,,,950,1.8,1,639,0 % off,639
+355,Muphone, M360,,,,,,,800,1.44,,899,35% off,1399
+356,OPPO," F11 Pro (Waterfall Grey, 128 GB)",Waterfall Grey,128,4.4,"1,11,046","10,763",6,4000,6.5,1,17990,40% off,29990
+357,Itel, It 2190,,,4.1,,,,1000,1.8,1,865,23% off,1125
+358,Karbonn, K-Stylo,,,3.9,"2,280",,,1750,2.8,1,1129,28% off,1590
+359,Apple," iPhone 6s (Space Grey, 32 GB)",Space Grey,32,4.5,"91,366","9,301",,0,4.7,1,25299,15% off,29900
+360,Nokia," 2.2 (Steel, 32 GB)",Steel,32,3.9,"1,454",,3,3000,5.71,1,6899,32% off,10199
+361,Samsung," Galaxy A51 (Prism Crush Blue, 128 GB)",Prism Crush Blue,128,4.4,"1,149",,6,4000,6.4,1,25250,2% off,25999
+362,Vivo," U10 (Thunder Black, 64 GB)",Thunder Black,64,4.4,"12,671","1,009",3,5000,6.35,1,10490,12% off,11990
+363,Nokia, 110,,,4.1,,,,800,1.77,1,1709,12% off,1949
+364,Nokia, 110,,,4.1,,,,800,1.77,1,1685,13% off,1949
+365,Samsung," Galaxy S9 (Midnight Black, 64 GB)",Midnight Black,64,4.4,"17,061","1,387",4,3000,5.8,1,24999,60% off,62500
+366,I, Kall K20 New,,,3.5,"1,715",,,1000,1.8,,649,0 % off,649
+367,Redmi," 6 Pro (Gold, 32 GB)",Gold,32,4.3,"10,313",,3,4000,5.84,1,8990,0 % off,8990
+368,Karbonn, K1 Prime,,,3.7,,,,800,2.4,1,749,37% off,1190
+369,Lava, A5,,,4.1,,,,1000,2.4,1,1125,29% off,1599
+370,I, Kall K51,,,4.2,,,,1000,1.8,1,649,0 % off,649
+371,I, Kall K38 New with Flash Light support,,,3.7,"1,259",,,800,1.8,,549,12% off,549
+372,Apple," iPhone 7 Plus (Silver, 32 GB)",Silver,32,4.5,"24,149","2,580",,0,5.5,1,36999,2% off,37900
+373,I, Kall K29,,,3.8,"9,632","1,405",,1800,1.8,,649,0 % off,649
+374,I, Kall K29,,,3.8,"9,632","1,405",,1800,1.8,,649,0 % off,649
+375,Redmi," Note 8 Pro (Shadow Black, 128 GB)",Shadow Black,128,4.4,"2,336",,8,4500,6.53,1,18999,0 % off,18999
+376,OPPO," A5s (Blue, 32 GB)",Blue,32,4.4,"3,907",,3,4230,6.2,1,9490,32% off,13990
+377,iQOO," 3 (Tornado Black, 256 GB)",Tornado Black,256,4.5,,,8,4440,6.44,1,41990,0 % off,41990
+378,iQOO," 3 (Tornado Black, 128 GB)",Tornado Black,128,4.5,,,8,4440,6.44,1,38990,0 % off,38990
+379,iQOO," 3 (Quantum Silver, 256 GB)",Quantum Silver,256,4.5,,,8,4440,6.44,1,41990,0 % off,41990
+380,iQOO," 3 (Volcano Orange, 256 GB)",Volcano Orange,256,4.5,,,8,4440,6.44,1,41990,0 % off,41990
+381,Karbonn, Kx23,,,3.7,,,,1900,2.4,1,1099,0 % off,1099
+382,Samsung," Galaxy S9 (Coral Blue, 64 GB)",Coral Blue,64,4.4,"17,061","1,387",4,3000,5.8,1,24999,60% off,62500
+383,Apple," iPhone XR (Black, 64 GB)",Black,64,4.6,"8,780",,,0,6.1,1,52500,0 % off,52500
+384,Mymax, A12,,,3.9,,,,1000,1.8,,565,0 % off,565
+385,Forme, W1+,,,3.5,,,,1500,2.4,1,999,0 % off,999
+386,Fox, BigDaddy,,,3.6,"2,312",,,3600,2.8,1,1249,0 % off,1249
+387,Fox, BigDaddy,,,3.6,"2,312",,,3600,2.8,1,1249,0 % off,1249
+388,Fox, BigDaddy,,,3.6,"2,312",,,3600,2.8,1,899,0 % off,899
+389,Redmi," K20 Pro (Glacier Blue, 256 GB)",Glacier Blue,256,4.5,"11,573","1,669",8,4000,6.39,1,29999,6% off,31999
+390,Kechaoda, K9,,,4,,,,1700,2.4,1,949,0 % off,949
+391,Kechaoda, K115,,,4.1,"8,743",,,850,1.44,,897,0 % off,897
+392,Micromax," Bharat 5 Pro (Jet Black, 32 GB)",Jet Black,32,4,"18,488","2,542",3,5000,5.2,1,5199,52% off,10999
+393,Redmi," Note 7 (Onyx Black, 64 GB)",Onyx Black,64,4.5,"1,73,640","16,417",4,4000,6.3,1,10799,0 % off,10799
+394,Kechaoda, K123,,,4.3,,,,600,2.8,1,1900,0 % off,1900
+395,Motorola," One Vision (Sapphire Gradient, 128 GB)",Sapphire Gradient,128,4.1,"9,692","1,308",4,3500,6.3,1,14999,34% off,22999
+396,Zen, Zen M72 Max,,,3.8,,,,2400,2.4,1,1270,0 % off,1270
+397,itel, it5607,,,4.2,,,,2500,1.8,,920,26% off,1249
+398,Micromax, X421,,,4.1,,,,1800,1.77,,795,55% off,1799
+399,M,-Smart M-3310,,,3.7,,,,1000,1.8,1,599,0 % off,599
+400,Apple," iPhone 6s (Rose Gold, 128 GB)",Rose Gold,128,4.5,"91,366","9,301",,0,4.7,1,43490,0 % off,43490
+401,Karbonn, K451 Power,,,3.8,"3,638",,,3000,2.4,1,1039,0 % off,1039
+402,Lava," Flair P1 (Black, 2 GB)",Black,2,2.9,,,,1400,,1,1899,0 % off,1899
+403,XOLO," ZX (Midnight Blue, 64 GB)",Midnight Blue,64,3.8,,,4,3260,6.22,1,9199,34% off,13999
+404,XOLO," ZX (Electric Blue, 128 GB)",Electric Blue,128,4.2,,,6,3260,6.22,1,11199,34% off,16999
+405,XOLO," ZX (Electric Blue, 64 GB)",Electric Blue,64,3.8,,,4,3260,6.22,1,9199,34% off,13999
+406,Fox, Sultan,,,3.9,,,,2500,2.4,1,899,0 % off,899
+407,Kechaoda, K28,,,4,,,,1700,2.4,1,999,23% off,1299
+408,Asus," ZenFone 5Z (Meteor Silver, 128 GB)",Meteor Silver,128,4.5,"21,508","4,605",6,3300,6.2,1,18999,47% off,36299
+409,Apple," iPhone 11 Pro (Silver, 512 GB)",Silver,512,4.7,"1,129",,,0,5.8,1,140300,0 % off,140300
+410,Karbonn, KX24,,,3.9,,,,3000,2.4,1,1199,0 % off,1199
+411,Redmi," Note 7 Pro (Nebula Red, 64 GB)",Nebula Red,64,4.5,"7,83,395","69,216",4,4000,6.3,1,10999,31% off,15999
+412,Infinix," Hot 7 (Midnight Black, 64 GB)",Midnight Black,64,4.2,"25,543","3,419",4,4000,6.19,1,9999,0 % off,9999
+413,Redmi," K20 Pro (Flame Red, 256 GB)",Flame Red,256,4.5,"11,573","1,669",8,4000,6.39,1,29999,6% off,31999
+414,I, Kall K38 New Mobile,,,3.7,,,,800,1.8,,599,4% off,599
+415,Apple," iPhone 11 Pro Max (Gold, 64 GB)",Gold,64,4.7,,,,0,6.5,1,117100,0 % off,117100
+416,Intex, Eco Selfie 2,,,3.9,,,,800,1.8,1,850,26% off,1149
+417,Karbonn, K9 Staar,,,3.8,"5,823",,,1000,2.4,1,829,38% off,1340
+418,Redmi," K20 Pro (Pearl White, 256 GB)",Pearl White,256,4.5,"11,573","1,669",8,4000,6.39,1,29999,6% off,31999
+419,Honor," 9N (Midnight Black, 64 GB)",Midnight Black,64,4.3,"2,22,007","21,217",4,3000,5.84,,8999,43% off,15999
+420,Samsung," Galaxy A70 (White, 128 GB)",White,128,4.4,"4,646",,6,4500,6.7,1,21990,28% off,30900
+421,Inovu, A7,,,3.3,,,,1000,1.77,1,649,0 % off,649
+422,Inovu, A7,,,3.3,,,,1000,1.77,1,649,0 % off,649
+423,Redmi," Y3 (Bold Red, 32 GB)",Bold Red,32,4.3,"18,355","1,450",3,4000,6.26,1,8252,31% off,11999
+424,Muphone, M3000,,,4,,,,1800,2.4,,849,57% off,1999
+425,Muphone, M3000,,,4,,,,1800,2.4,,849,57% off,1999
+426,Muphone, M3000,,,4,,,,1800,2.4,,849,57% off,1999
+427,Muphone, M3000,,,4,,,,1800,2.4,,849,57% off,1999
+428,OPPO," A5 2020 (Mirror Black, 64 GB)",Mirror Black,64,4.4,"3,540",,4,5000,6.5,1,12485,21% off,15990
+429,Gionee," S11 Lite (Dark Blue, 32 GB)",Dark Blue,32,4,"5,365",,4,3030,5.7,1,6399,58% off,15490
+430,Micromax, Flash X910,,,3.7,,,,4000,2.8,1,1699,27% off,2349
+431,Honor," 8C (Black, 64 GB)",Black,64,4.3,"33,033","3,057",4,4000,6.26,,8499,43% off,14999
+432,Zen, X45+,,,3.5,,,,1000,2.4,1,959,0 % off,959
+433,Apple," iPhone 11 (Green, 128 GB)",Green,128,4.7,"10,800",,,0,6.1,1,73600,0 % off,73600
+434,Micromax, X072,,,3.8,"2,717",,,1750,1.77,1,777,0 % off,777
+435,Apple," iPhone 11 (White, 256 GB)",White,256,4.7,"10,800",,,0,6.1,1,84100,0 % off,84100
+436,Samsung," Galaxy A20s (Blue, 64 GB)",Blue,64,4.4,,,4,4000,6.5,1,13695,8% off,14900
+437,Kechaoda, K2,,,4,,,,1000,1.8,,649,45% off,1199
+438,Muphone, M330,,,3.9,,,,1700,2.8,1,1289,0 % off,1289
+439,Apple," iPhone 11 (Purple, 128 GB)",Purple,128,4.7,"10,800",,,0,6.1,1,73600,0 % off,73600
+440,Realme," 3 (Diamond Red, 32 GB)",Diamond Red,32,4.4,"4,29,660","42,807",3,4230,6.22,1,8499,22% off,10999
+441,Zen, X56,,,3.8,,,,1700,2.4,1,1080,0 % off,1080
+442,Zen, X56,,,3.5,,,,1700,2.4,1,976,0 % off,976
+443,Samsung," Galaxy A71 (Prism Crush Black, 128 GB)",Prism Crush Black,128,4.6,,,8,4500,6.7,1,31500,9% off,34999
+444,I, Kall K18 New Combo of Two Mobiles,,,3.6,,,,800,1.8,1,1199,0 % off,1199
+445,Kara, K18,,,3.4,,,,2200,2.4,,1099,0 % off,1099
+446,Blackbear, D-102,,,3.8,,,,1500,2.4,1,1290,0 % off,1290
+447,Samsung, Guru Music 2 SM-B310E,,,4.1,"3,927",,,800,,1,1880,3% off,1950
+448,Gfive, Z8,,,3.6,,,,2200,2.4,1,882,0 % off,882
+449,Micromax, X811,,,3.8,,,,1000,2.8,1,1099,0 % off,1099
+450,Forme, L900,,,3.3,,,,1650,2.4,1,1090,0 % off,1090
+451,I, Kall K66 Combo Of Two Mobile,,,3.5,"5,358",,,1000,1.8,1,1099,26% off,1499
+452,Fox, Gama,,,3.9,,,,2500,1.8,1,899,0 % off,899
+453,Samsung," Galaxy S10e (Prism White, 128 GB)",Prism White,128,4.5,,,6,3100,5.8,1,47300,19% off,59000
+454,Intex, Turbo 220,,,4.1,,,,2200,2.4,,1029,31% off,1499
+455,Samsung, Guru FM Plus,,,4.2,"15,771","1,595",,800,1.5,1,1565,5% off,1662
+456,Motorola," One Vision (Bronze Gradient, 128 GB)",Bronze Gradient,128,4.1,"9,692","1,308",4,3500,6.3,1,14999,34% off,22999
+457,Forme, HERO,,,3.6,,,,1050,,1,747,0 % off,747
+458,Google," Pixel 3 XL (Just Black, 64 GB)",Just Black,64,4.6,,,4,3430,6.3,1,57999,30% off,83000
+459,Google," Pixel 3 XL (Clearly White, 128 GB)",Clearly White,128,4.6,,,4,3430,6.3,1,54799,40% off,92000
+460,Google," Pixel 3 XL (Not Pink, 64 GB)",Not Pink,64,4.6,,,4,3430,6.3,1,57999,30% off,83000
+461,Easyfone, Amico,,,3.3,,,,1000,2.2,1,2599,16% off,3100
+462,Asus," ZenFone 5Z (Midnight Blue, 64 GB)",Midnight Blue,64,4.5,"21,508","4,605",6,3300,6.2,1,16999,48% off,32999
+463,I, Kall K-130,,,3.6,,,,800,1.8,,549,6% off,549
+464,Samsung," Galaxy M10S (Stainless Black, 32 GB)",Stainless Black,32,4.4,,,3,4000,6.4,,9100,9% off,10000
+465,Micromax, X717,,,3.9,,,,1800,2.4,1,1285,0 % off,1285
+466,XOLO," Era 4x (Gold, 16 GB)",Gold,16,4.1,"1,342",,2,3000,5.45,1,4299,40% off,7199
+467,Peace, Knight,,,3.5,,,,850,1.8,1,565,0 % off,565
+468,ITEL," A46 (FIERY RED, 32 GB)",FIERY RED,32,4.1,,,2,2400,5.45,1,5390,10% off,5999
+469,Forme, Mini 1,,,3.8,,,,1500,2.4,1,899,0 % off,899
+470,Apple," iPhone 6s Plus (Gold, 32 GB)",Gold,32,4.4,"18,573","2,414",,0,5.5,1,33999,2% off,34900
+471,Kara, Bright,,,3.6,,,,1350,1.8,,679,0 % off,679
+472,Kara, Bright,,,3.6,,,,1350,1.8,,679,0 % off,679
+473,Tambo, A2200,,,4,,,,1000,2.2,1,990,44% off,1790
+474,I, Kall K3312,,,3.5,"7,943",,,1000,1.8,1,1199,0 % off,1199
+475,DETEL, D1 Star,,,3.6,,,,1000,2.4,1,699,53% off,1499
+476,Micromax, X282,,,3.8,,,,1400,2.6,1,2599,0 % off,2599
+477,Tecno," Camon I Sky 2 (Champagne Gold, 16 GB)",Champagne Gold,16,4.1,,,2,3050,5.5,1,6089,32% off,8999
+478,Yu," Ace (Charcoal Grey, 16 GB)",Charcoal Grey,16,4.1,"60,932","7,916",2,4000,5.45,1,4299,46% off,7999
+479,Lava, KKT 34i,,,3.6,,,,1800,2.4,1,1599,0 % off,1599
+480,Kechaoda, K-55 Plus,,,4,"6,171",,,850,1.77,1,920,38% off,1499
+481,Gfive, U873 Combo of Two,,,3.8,,,,1000,1.8,,1099,0 % off,1099
+482,Gfive, U873 Combo of Two,,,3.8,,,,1000,1.8,,1099,0 % off,1099
+483,Nokia," 3.2 (Black, 16 GB)",Black,16,3.7,,,2,4000,6.26,1,6390,37% off,10199
+484,Peace, P1,,,3.7,"1,164",,,850,1.8,1,574,31% off,574
+485,UNI, N21,,,3.2,,,,1000,1.8,1,699,0 % off,699
+486,Apple," iPhone 11 Pro Max (Gold, 512 GB)",Gold,512,4.7,,,,0,6.5,1,150800,0 % off,150800
+487,Apple," iPhone 11 Pro Max (Midnight Green, 512 GB)",Midnight Green,512,4.7,,,,0,6.5,1,150800,0 % off,150800
+488,Muphone, M510,,,3.7,,,,1700,2.4,,1099,45% off,1999
+489,I, Kall K23 New Mobile,,,3.6,"1,165",,,1000,1.8,,639,20% off,639
+490,Trio, T6,,,3.1,,,,800,2.4,1,680,31% off,680
+491,XOLO," Era 4x (Gold, 16 GB)",Gold,16,4.1,,,1,3000,5.45,1,4299,0 % off,4299
+492,tambo, A1806,,,,,,,1000,1.8,,790,0 % off,790
+493,Intex," Aqua Trend (Silver, 16 GB)",Silver,16,3.8,,,2,3000,,1,6490,0 % off,6490
+494,Karbonn, K9,,,4,"4,193",,,1800,2.6,1,1129,18% off,1390
+495,Forme, Hope H1,,,3.8,,,,1800,2.6,1,1025,0 % off,1025
+496,Micromax, X603,,,3.8,,,,1000,2.4,1,1048,0 % off,1048
+497,Easyfone, Royale,,,4.2,,,,700,2.4,1,3399,9% off,3750
+498,Forme, Hope H1,,,3.8,,,,1800,2.6,1,1069,0 % off,1069
+499,Forme, Hope H1,,,3.8,,,,1800,2.6,1,1069,0 % off,1069
+500,Karbonn, K9 SPY,,,3.9,,,,1750,2.4,1,1059,23% off,1390
+501,Micromax," Spark Go (Rose Gold, 8 GB)",Rose Gold,8,4,"17,338","1,542",1,2000,,1,3299,34% off,4999
+502,Panasonic," Eluga A3 (Grey, 16 GB)",Grey,16,3.8,"9,442","1,632",3,4000,5.2,1,11490,0 % off,11490
+503,Realme," C1 (Mirror Black, 32 GB)",Mirror Black,32,4.4,"31,934","2,928",3,4230,6.2,1,8499,15% off,9999
+504,Smartron," t-phone T5511 (Classic Grey, 64 GB)",Classic Grey,64,3.3,,,4,3000,5.5,1,9290,0 % off,9290
+505,Karbonn," Vue 1 (Silver Blue, 8 GB)",Silver Blue,8,4.1,,,1,2300,5.3,,3249,0 % off,3249
+506,Karbonn," Vue 1 (Black, 8 GB)",Black,8,4.1,,,1,2300,5.3,,3249,0 % off,3249
+507,EcoTel, E16,,,,,,,1000,1.8,1,599,50% off,1199
+508,I, Kall K28 Combo of Two Mobiles,,,3.4,,,,1500,2.4,1,1299,45% off,2398
+509,I, Kall K28 Combo of Two Mobiles,,,3.4,,,,1500,2.4,1,1199,50% off,2398
+510,Gfive, U707,,,3.7,"2,767",,,950,1.8,1,625,30% off,625
+511,Tork, T19 Shine,,,3.4,,,,2500,2.4,1,1149,11% off,1299
+512,Realme," 3 Pro (Carbon Grey, 64 GB)",Carbon Grey,64,4.5,"3,29,008","39,699",4,4045,6.3,1,13999,12% off,15999
+513,Realme," 3 Pro (Nitro Blue, 64 GB)",Nitro Blue,64,4.5,"1,22,173","14,204",6,4045,6.3,1,15999,11% off,17999
+514,Realme," 3 Pro (Lightning Purple, 128 GB)",Lightning Purple,128,4.5,"1,22,173","14,204",6,4045,6.3,1,16999,15% off,19999
+515,Realme," 3 Pro (Carbon Grey, 128 GB)",Carbon Grey,128,4.5,"1,22,173","14,204",6,4045,6.3,1,16999,15% off,19999
+516,Realme," 3 Pro (Nitro Blue, 128 GB)",Nitro Blue,128,4.5,"1,22,173","14,204",6,4045,6.3,1,16999,15% off,19999
+517,Micromax, X707,,,3.6,,,,1000,2.4,1,898,0 % off,898
+518,I, Kall K2180,,,3.7,"9,579","1,136",,1000,1.8,,649,0 % off,649
+519,Lava, Spark Icon2,,,3.4,,,,1150,2.8,1,1175,0 % off,1175
+520,I, Kall K18 New,,,3.7,"6,978",,,800,1.8,,649,0 % off,649
+521,GLX, U505,,,3.6,,,,950,1.8,1,639,0 % off,639
+522,Micromax, X551,,,3.8,,,,1800,1.77,1,1045,0 % off,1045
+523,Gfive, N9 Combo of Three Mobile,,,3.3,,,,950,1.8,1,1619,0 % off,1619
+524,Vivo," NEX (Black, 128 GB)",Black,128,4.2,,,8,4000,6.59,1,39990,0 % off,39990
+525,Redmi," K20 (Glacier Blue, 128 GB)",Glacier Blue,128,4.5,"44,050","4,802",6,4000,6.39,1,24999,0 % off,24999
+526,I, Kall K39,,,3.7,"1,873",,,1500,2.4,,799,20% off,799
+527,Tork, X1,,,,,,,1000,1.8,1,799,20% off,799
+528,Gfive, U229,,,3.7,"1,497",,,1000,1.8,1,499,61% off,1299
+529,Honor," 9N (Sapphire Blue, 64 GB)",Sapphire Blue,64,4.3,"2,22,007","21,217",4,3000,5.84,,8999,43% off,15999
+530,Honor," 9N (Sapphire Blue, 128 GB)",Sapphire Blue,128,4.3,"2,22,007","21,217",4,3000,5.84,,9499,52% off,19999
+531,Itel, IT5025,,,4.1,,,,1200,2.4,1,995,20% off,1249
+532,OPPO," K3 (Jade Black, 64 GB)",Jade Black,64,4.4,,,6,3765,6.5,,18905,24% off,24990
+533,Apple," iPhone 11 Pro (Gold, 512 GB)",Gold,512,4.7,"1,129",,,0,5.8,1,140300,0 % off,140300
+534,Forme, Q600,,,3.4,,,,1050,,1,844,0 % off,844
+535,HTC," Wildfire X (Blue, 32 GB)",Blue,32,3.9,,,3,3300,6.22,1,8499,34% off,12999
+536,Apple," iPhone 7 (Gold, 128 GB)",Gold,128,4.5,"86,163","8,695",,0,4.7,1,34900,47% off,66313
+537,Redmi," Y2 (Blue, 64 GB)",Blue,64,4.4,"25,280","1,827",4,3080,5.99,1,10999,18% off,13499
+538,Rocktel, R5,,,3.6,,,,1000,1.8,,599,0 % off,599
+539,I, Kall K-60,,,4.3,,,,1500,2.4,1,1999,33% off,2999
+540,Honor," 9i (Graphite Black, 64 GB)",Graphite Black,64,4.3,"69,046","10,375",4,3340,5.9,,9499,52% off,19999
+541,Kechaoda, K60,,,4,,,,3600,2.4,1,1337,16% off,1599
+542,Intex, Eco 105x,,,4,,,,1050,1.8,1,749,31% off,1099
+543,Forme, Winner W3,,,3.9,,,,1500,2.4,1,845,0 % off,845
+544,Apple," iPhone 11 Pro (Midnight Green, 512 GB)",Midnight Green,512,4.7,"1,129",,,0,5.8,1,140300,0 % off,140300
+545,Samsung," Galaxy Note10 Lite (Aura Red, 128 GB)",Aura Red,128,4.2,,,6,4500,6.7,1,41000,4% off,43000
+546,I, Kall k111 new,,,3.7,,,,1000,2.4,,799,0 % off,799
+547,Jmax, M40,,,3,,,,1050,1.8,,635,42% off,1099
+548,Jmax, M40,,,3,,,,1050,1.8,,635,42% off,1099
+549,Jmax, M40,,,3,,,,1050,1.8,,635,42% off,1099
+550,BlackBear, i7,,,3.8,"2,364",,,1550,,1,1399,1% off,1420
+551,Hicell, C1 Tiger,,,3.4,,,,1050,1.8,1,539,0 % off,539
+552,I, Kall K15 pack of 2,,,,,,,800,1.8,1,1199,39% off,1998
+553,Mymax, A12S,,,3.4,,,,1000,1.8,,599,45% off,1099
+554,Muphone, M510,,,3.7,,,,1700,2.4,,1099,45% off,1999
+555,Itel, Magic 1 Max,,,3.9,,,,1900,2.8,,1368,23% off,1799
+556,EcoTel, E11,,,3.3,"1,438",,,1000,1.8,1,599,50% off,1199
+557,EcoTel, E11,,,3.3,"1,438",,,1000,1.8,1,599,50% off,1199
+558,Salora, Volt 2,,,4,,,,2000,1.8,,659,40% off,1099
+559,Panasonic," P55 Max (Champagne Gold, 16 GB)",Champagne Gold,16,3.9,"15,179","3,111",3,5000,5.5,1,8499,0 % off,8499
+560,Intex, Ultra,,,3.2,,,,2350,2.4,1,1320,0 % off,1320
+561,Samsung," Galaxy A20s (Black, 64 GB)",Black,64,4.4,,,4,4000,6.5,1,12800,14% off,14900
+562,Apple," iPhone XS (Gold, 256 GB)",Gold,256,4.7,"8,367",,,0,5.8,1,76999,25% off,103900
+563,1,+1=2 D2,,,3.4,,,,1200,1.8,1,649,0 % off,649
+564,1,+1=2 D2,,,3.4,,,,1200,1.8,1,569,0 % off,569
+565,Karbonn," Platinum P9 (Stary Black Blue, 16 GB)",Stary Black Blue,16,3.8,"1,227",,2,2500,5.45,1,3999,50% off,7999
+566,Karbonn, K Phone Mashaal,,,4.2,,,,1800,2.4,1,1399,0 % off,1399
+567,Apple," iPhone 11 Pro (Space Grey, 512 GB)",Space Grey,512,4.7,"1,129",,,0,5.8,1,140300,0 % off,140300
+568,Honor," 10 Lite (Midnight Black, 32 GB)",Midnight Black,32,4.4,"26,483","2,741",3,3400,6.21,1,8499,39% off,13999
+569,Honor," 10 Lite (Sapphire Blue, 64 GB)",Sapphire Blue,64,4.4,"13,378","1,291",6,3400,6.21,1,12199,35% off,18999
+570,Honor," 10 Lite (Sapphire Blue, 64 GB)",Sapphire Blue,64,4.4,"62,915","6,707",4,3400,6.21,1,11599,31% off,16999
+571,Otho," T1 (Red, 8 GB)",Red,8,,,,1,2000,,1,3999,0 % off,3999
+572,Lava, KKT ipro,,0,4.1,,,,1750,1.8,,1049,0 % off,1049
+573,Karbonn, KX24,,,3.9,,,,3000,2.4,1,1099,30% off,1590
+574,Blackbear, B5 Bucket,,,3.7,,,,1050,1.8,1,649,35% off,649
+575,Lava," Z62 (Space Blue, 16 GB)",Space Blue,16,4.1,,,2,3380,,1,5549,25% off,7399
+576,Nokia," 7.2 (Cyan Green, 64 GB)",Cyan Green,64,4.2,"2,591",,6,3500,6.3,1,18099,18% off,22199
+577,Samsung," Galaxy S20 (Cosmic Gray, 128 GB)",Cosmic Gray,128,4.1,,,8,4000,6.2,1,70500,4% off,74000
+578,Redmi," 7A (Matte Gold, 16 GB)",Matte Gold,16,4.3,"3,50,818","26,616",2,4000,5.45,2,6499,0 % off,6499
+579,BlackZone, TURBO,,,3.2,,,,1800,2.4,,799,0 % off,799
+580,Itel, Power 400,,,4.1,,,,2500,2.4,,1110,26% off,1500
+581,JIVI, X30,,,3.9,,,,800,1.8,1,749,0 % off,749
+582,Honor," 8C (Blue, 64 GB)",Blue,64,4.3,"33,033","3,057",4,4000,6.26,,8499,43% off,14999
+583,Honor," 8C (Black, 32 GB)",Black,32,4.3,"33,033","3,057",4,4000,6.26,1,8499,34% off,12999
+584,Honor," 8C (Blue, 32 GB)",Blue,32,4.3,"33,033","3,057",4,4000,6.26,1,8499,34% off,12999
+585,Micromax, X806,,,3.7,,,,1800,1.77,1,1615,0 % off,1615
+586,Nokia," 6.1 Plus (Blue, 64 GB)",Blue,64,4.1,"1,632",,6,3060,5.8,1,11329,40% off,18990
+587,Forme, Surprise S10,,,3.7,,,,1050,2.4,1,895,0 % off,895
+588,Forme, M600,,,3.7,,,,1500,2.4,1,999,0 % off,999
+589,Tecno," Camon I Ace (Champagne Gold, Gold, 16 GB)","Champagne Gold, Gold",16,4.2,,,2,3050,5.45,,6500,18% off,7999
+590,Lenovo," K6 Power (Silver, 32 GB)",Silver,32,4.1,"2,39,480","53,355",3,4000,,1,9999,0 % off,9999
+591,Apple," iPhone 11 Pro Max (Silver, 512 GB)",Silver,512,4.7,,,,0,6.5,1,150800,0 % off,150800
+592,Lava," Z25 (Gold, 32 GB)",Gold,32,4.2,,,4,3020,5.5,2,18000,0 % off,18000
+593,Vivo," Y81i (Black, 16 GB)",Black,16,4.4,"3,878",,2,3260,6.22,1,7399,32% off,10990
+594,Redmi," Note 7S (Astro Moonlight White, 64 GB)",Astro Moonlight White,64,4.4,"3,89,062","32,753",4,4000,6.3,1,11999,14% off,13999
+595,Lava, Arc Magic+,,,3.7,"2,739",,,800,1.8,1,929,0 % off,929
+596,Muphone, M230,,,3.6,,,,1700,2.8,1,1289,0 % off,1289
+597,Nokia," 4.2 (Black, 32 GB)",Black,32,4.1,,,3,3000,5.71,1,10099,26% off,13699
+598,Micromax, X271,,,,,,,0,,,2300,0 % off,2300
+599,Kara, Bright,,,3.4,,,,1050,1.77,,549,0 % off,549
+600,Samsung," Galaxy A2 Core (Gold, 16 GB)",Gold,16,4.2,"2,991",,1,2600,,1,5289,10% off,5900
+601,Intex, Eco Beats,,,3.7,"7,208","1,053",,800,1.8,1,690,0 % off,690
+602,Zen, X45+,,,3.5,,,,1000,2.4,1,959,0 % off,959
+603,Lava, ARC Glam,,,3.8,,,,800,1.77,1,979,0 % off,979
+604,Micromax, X333,,,3.3,,,,1000,2.8,1,2999,0 % off,2999
+605,Lemon," Classic 451 (Silver, 8 GB)",Silver,8,3.5,,,1,2200,4.5,1,3299,0 % off,3299
+606,Lava, KKT Connect Plus,,,3.6,,,,1750,2.4,1,1219,0 % off,1219
+607,Lava, KKT Connect Plus,,,3.6,,,,1750,2.4,1,1219,0 % off,1219
+608,Forme, Gorilla,,,3.8,,,,1800,2.8,1,999,0 % off,999
+609,Redmi," K20 (Flame Red, 128 GB)",Flame Red,128,4.5,"44,050","4,802",6,4000,6.39,1,24999,0 % off,24999
+610,Lava, Spark Vibe,,,3.7,,,,1300,2.8,,1469,0 % off,1469
+611,Peace, P4,,,3.5,"2,708",,,850,1.8,,540,39% off,540
+612,Blackbear, B5 Bolt,,,3.9,,,,1000,1.8,1,649,0 % off,649
+613,Gionee," Pioneer P3 (White, 4 GB)",White,4,3.9,,,,1700,4.3,1,2350,70% off,7996
+614,Gionee," F205 Pro (Blue, 16 GB)",Blue,16,4.1,"8,756",,2,3000,5.45,1,3890,44% off,6990
+615,Snexian, M6044,,,2.2,,,,1800,2.4,1,1049,0 % off,1049
+616,Google," Pixel 2 (Kinda Blue, 64 GB)",Kinda Blue,64,4.5,"8,260","1,372",4,2700,,2,61000,0 % off,61000
+617,OPPO," A5 (Diamond Blue, 64 GB)",Diamond Blue,64,4.3,"13,166","1,067",4,4230,6.2,1,10590,33% off,15990
+618,Samsung," Galaxy A30s (Prism Crush Violet, 128 GB)",Prism Crush Violet,128,4.3,"2,898",,4,4000,6.4,1,15899,20% off,19900
+619,Samsung," Galaxy J6 (Black, 64 GB)",Black,64,4.5,"40,435","2,481",4,3000,5.6,1,9999,22% off,12900
+620,Itel, It 5611,,,4.7,,,,2500,2.4,1,1290,0 % off,1290
+621,Tork, X2,,,,,,,1000,1.8,1,799,0 % off,799
+622,Google," Pixel (Very Silver, 128 GB)",Very Silver,128,4.4,"4,401",,4,2770,,1,41980,0 % off,41980
+623,Mi," Mix 2 (Black, 128 GB)",Black,128,4.4,"4,190",,6,3400,5.99,1,29999,21% off,37999
+624,Tambo, A1800,,,3.8,,,,1000,1.8,1,720,0 % off,720
+625,Gfive, A98,,,3.7,"2,993",,,600,1.8,1,899,0 % off,899
+626,Lava, KKT Star 2,,,3.8,,,,1800,2.4,1,1299,0 % off,1299
+627,Muphone, M390,,,3.8,,,,3600,2.8,1,1569,0 % off,1569
+628,Gfive, Plus Combo of Two Mobiles,,,3.9,,,,1050,1.8,1,1255,0 % off,1255
+629,Gfive, Plus Combo of Two Mobiles,,,3.9,,,,1050,1.8,1,1255,0 % off,1255
+630,Gfive, Plus Combo of Two Mobiles,,,3.9,,,,1050,1.8,1,1255,0 % off,1255
+631,Mymax, M40,,,3.5,,,,1000,1.8,,599,0 % off,599
+632,Kara, K16,,,3.7,,,,1700,1.8,,699,0 % off,699
+633,Gfive, A2 Combo of Two,,,3.6,,,,1000,1.8,,1099,0 % off,1099
+634,Itel," A44 Pro (Blue, 16 GB)",Blue,16,4.3,,,2,2400,5.45,1,3999,44% off,7199
+635,Blackbear," B6 Glory (Blue, 16 GB)",Blue,16,,,,2,2500,5.5,1,4999,16% off,5999
+636,Redmi," 4A (Dark Grey, 32 GB)",Dark Grey,32,4.4,"2,08,535","32,609",3,3120,,1,6999,0 % off,6999
+637,Lava," A82 (White/WHITEM, 8 GB)",White/WHITEM,8,3.6,"1,203",,1,2000,,1,2999,0 % off,2999
+638,Micromax, X970,,,3.8,"2,031",,,1750,2.8,,1250,0 % off,1250
+639,Mymax, M43,,,3.5,"2,083",,,1000,1.8,,539,32% off,539
+640,Redmi," K20 Pro (Carbon Black, 256 GB)",Carbon Black,256,4.5,"11,573","1,669",8,4000,6.39,1,29999,6% off,31999
+641,Jivi, S3,,,3.8,,,,1000,1.8,1,885,15% off,1049
+642,Jivi, S3,,,3.8,,,,1000,1.8,1,885,15% off,1049
+643,Karbonn, K88,,,3.5,,,,1750,2.4,,1245,16% off,1490
+644,Snexian, 3310 Carving,,,3.4,,,,1400,2.4,1,749,0 % off,749
+645,Lava," Iris Atom X (White, 512 MB)",White,,3.2,"1,866",,,1400,,1,1999,0 % off,1999
+646,Lava," Iris Atom X (Black, 512 MB)",Black,,3.2,"1,866",,,1400,,1,1999,0 % off,1999
+647,Apple," iPhone 7 (Silver, 32 GB)",Silver,32,4.5,"86,163","8,695",,0,4.7,1,26499,11% off,29900
+648,M,-tech Boss,,,3.5,,,,2800,2.4,1,899,43% off,1599
+649,M,-tech Boss,,,3.5,,,,2800,2.4,1,1200,0 % off,1200
+650,Forme, Coke A1,,,4.2,,,,600,1.4,1,999,0 % off,999
+651,Forme, Winner 1,,,4.4,,,,1500,2.4,1,1000,0 % off,1000
+652,Lava," Flair P1i (Black, 512 MB)",Black,,3.3,,,,1400,,1,2222,0 % off,2222
+653,Zen, Power 101 X60,,,4.1,,,,2400,1.8,1,909,0 % off,909
+654,Karbonn, K885 Metal,,,3.8,,,,1800,2.8,,1299,16% off,1558
+655,InFocus, Selfie C1,,,3.9,"2,264",,,1000,1.8,1,780,0 % off,780
+656,Salora, Volt 2,,,4,,,,2000,1.8,1,659,42% off,1150
+657,Forme, F451,,,3.3,,,,1800,2.4,1,1149,0 % off,1149
+658,JIVI," Revolution TnT3 (Silver & Black, 8 GB)",Silver & Black,8,3.5,"1,476",,1,2300,,,2799,0 % off,2799
+659,BLU," Studio G HD (Grey, 8 GB)",Grey,8,3.9,,,1,2200,,1,3499,0 % off,3499
+660,VOTO," V3 (Red, 16 GB)",Red,16,4,,,2,3000,,1,3590,52% off,7499
+661,Gfive, W1,,,3.8,"2,152",,,3000,2.9,1,928,0 % off,928
+662,BLU," Studio One (Black, 16 GB)",Black,16,3.7,,,2,2450,,1,7999,0 % off,7999
+663,Zen, X91,,,4,,,,1000,2.4,1,984,0 % off,984
+664,InFocus, F229,,,4,"1,475",,,3000,2.4,1,1185,0 % off,1185
+665,Micromax, X803,,,4,"2,596",,,950,2.8,1,1299,13% off,1499
+666,Vivo," V17Pro (Midnight Ocean Black, 128 GB)",Midnight Ocean Black,128,4.5,"6,481",,8,4100,6.44,1,29499,10% off,32990
+667,Nexian," NV-45 (Black, 8 GB)",Black,8,3.6,"1,931",,1,1650,4.5,1,3799,0 % off,3799
+668,Panasonic," P100 (Blue, 16 GB)",Blue,16,3.9,"1,848",,1,2200,,1,5299,0 % off,5299
+669,Lava," Flair P2 (Black & Grey, 512 MB)",Black & Grey,,3.4,,,,1300,,1,2249,0 % off,2249
+670,Lava," Flair P2 (Black & Coffee, 512 MB)",Black & Coffee,,3.4,,,,1300,,1,2249,0 % off,2249
+671,Samsung," Galaxy J3 Pro (Gold, 16 GB)",Gold,16,4.2,"1,45,516","18,552",2,2600,,1,8800,0 % off,8800
+672,Lava, KKT Curve,,,3.9,,,,1800,2.4,1,1299,0 % off,1299
+673,Micromax," Bolt Supreme 4 Q352 Plus (Grey, 16 GB)",Grey,16,3.7,,,1,2000,,1,3590,0 % off,3590
+674,Muphone, M330,,,3.9,,,,1700,2.8,1,1289,0 % off,1289
+675,Reach, Power 230,,,3.4,,,,2300,2.4,1,799,0 % off,799
+676,Itel, It 5605n,,,4.2,,,,2500,1.77,1,983,19% off,1225
+677,Samsung," Galaxy A30s (Prism Crush Violet, 64 GB)",Prism Crush Violet,64,4.3,"2,898",,4,4000,6.4,1,14399,23% off,18900
+678,Blackbear, i7,,,3.7,,,,1450,2.4,1,999,0 % off,999
+679,Lava," Iris 450 (White & Pink, 4 GB)",White & Pink,4,4.2,,,,1800,4.5,1,7999,0 % off,7999
+680,Lava," A32 (Black, 512 MB)",Black,,3.3,,,,1500,,1,2649,0 % off,2649
+681,GLX, W8,,,3.8,,,,950,1.8,1,639,0 % off,639
+682,GLX, W8,,,3.8,,,,950,1.8,1,639,0 % off,639
+683,GLX, W8,,,3.8,,,,950,1.8,1,639,0 % off,639
+684,Lava, KKT 45,,,3.9,,,,2800,2.6,1,1999,0 % off,1999
+685,Lava," A48 (Blue, 4 GB)",Blue,4,3.4,,,,1300,,,2899,0 % off,2899
+686,Lava, ARC Lite Plus,,,3.7,,,,900,1.8,1,970,0 % off,970
+687,Snexian, 3330,,,3.2,,,,1400,2.4,1,729,0 % off,729
+688,Snexian, 3330,,,3.2,,,,1400,2.4,1,729,0 % off,729
+689,Snexian, 3330,,,3.2,,,,1400,2.4,1,729,0 % off,729
+690,Snexian, 3330,,,3.2,,,,1400,2.4,1,729,0 % off,729
+691,Lava, Spark Icon X,,,3.8,"2,071",,,1150,2.8,1,1510,0 % off,1510
+692,Forme, King,,,,,,,800,1.8,1,1000,0 % off,1000
+693,Forme, Power Two M22,,,4,,,,1800,2.4,1,999,0 % off,999
+694,Coolpad," Mega 5C (Sky Blue, 16 GB)",Sky Blue,16,3.7,,,1,2500,5.45,1,3200,41% off,5499
+695,Forme, Find F105,,,3.3,,,,800,1.8,1,715,0 % off,715
+696,Karbonn, K324N,,,3.8,,,,1750,2.4,1,970,0 % off,970
+697,Micromax, X233,,,,,,,1800,1.77,1,1999,0 % off,1999
+698,Micromax, X2i,,,,,,,1800,,1,2999,0 % off,2999
+699,Redmi," Y1 lite (Gold, 16 GB)",Gold,16,4.2,"3,227",,2,3080,5.5,1,7499,0 % off,7499
+700,Forme, Teddy,,,3.4,,,,900,1.44,1,699,0 % off,699
+701,Micromax, X205,,,,,,,800,1.77,1,2999,0 % off,2999
+702,Micromax, X260,,,,,,,1300,2.19,1,2460,0 % off,2460
+703,Forme, M90,,,,,,,2200,2.4,1,1099,0 % off,1099
+704,Micromax, X263,,,4.1,,,,1800,,1,1799,0 % off,1799
+705,Micromax, Solar Phone X259,,,4.3,,,,1000,2.4,1,1889,0 % off,1889
+706,Forme, F10,,,1,,,,1050,1.8,,859,0 % off,859
+707,Micromax, X265,,,3.8,,,,1200,2.2,1,2999,0 % off,2999
+708,Forme, D556,,,,,,,1800,2.4,,1015,0 % off,1015
+709,Lava, KKT Ultra Plus,,,3.8,,,,1750,2.4,1,1199,0 % off,1199
+710,Lava, KKT Ultra Plus,,,3.8,,,,1750,2.4,1,1199,0 % off,1199
+711,Google," Pixel XL (Very Silver, 128 GB)",Very Silver,128,4.5,"1,277",,4,3450,5.5,1,41990,0 % off,41990
+712,Micromax, X210,,,3.7,,,,1000,1.77,1,1999,0 % off,1999
+713,Micromax, X215,,,3,,,,1000,1.37,1,2449,0 % off,2449
+714,Karbonn, K451 Plus,,,3.5,,,,1800,,1,1410,0 % off,1410
+715,Lava, ARC 101,,,3.8,,,,1000,2.4,2,1179,0 % off,1179
+716,Lava, Spark 284,,,3.7,,,,1450,2.8,1,1479,0 % off,1479
+717,Lava, Spark 284,,,3.7,,,,1450,2.8,1,1479,0 % off,1479
+718,Forme, M 20,,,3.5,,,,2200,2.4,1,1099,0 % off,1099
+719,Forme, M 20,,,3.5,,,,2200,2.4,1,1099,0 % off,1099
